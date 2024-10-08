@@ -1,0 +1,13 @@
+Cython
+deepmultilingualpunctuation
+wget
+pydub
+numba==0.58.0
+unidecode
+git+https://github.com/m-bain/whisperX.git@78dcfaab51005aa703ee21375f81ed31bc248560
+git+https://github.com/facebookresearch/demucs#egg=demucs
+git+https://github.com/oliverguhr/deepmultilingualpunctuation.git
+git+https://github.com/MahmoudAshraf97/ctc-forced-aligner.git
+torchvision==0.15.2+cu117 --extra-index-url https://download.pytorch.org/whl/cu117
+nemo_toolkit[asr]==1.23.0
+huggingface_hub==0.22.0

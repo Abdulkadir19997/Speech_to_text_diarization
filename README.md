@@ -9,7 +9,7 @@ This notebook combines Whisper ASR capabilities with Voice Activity Detection (V
 First, clone the repository to your local machine using the command:
 
 ```bash
-git clone https://github.com/Abdulkadir19997/Auto-Inpaint-Anything-WebAPP.git
+git clone https://github.com/Abdulkadir19997/Speech_to_text_diarization.git
 ```
 ### Step 2: Create Python Environment
 
